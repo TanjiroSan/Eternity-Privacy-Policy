@@ -21,8 +21,8 @@
 #### 1. It stores server IDs for settings and data because:
 - Without those most of the bot functions wouldn't be functional.
 
-#### 2. It stores server IDs and user IDs for blacklist because:
-- We need to prevent people/servers that abuse the bot, break bot rules.
+#### 2. It stores server IDs for blacklist purpose because:
+- We need to prevent servers that abuse the bot, break bot rules.
 
 
 ## 5. I'm questioning why do you need all this data, and this Privacy Policy doesn't answer my question. What should I do?
