@@ -1,4 +1,4 @@
-## **Rapid's Privacy Policy**
+## **Eternity's Privacy Policy**
 ### By using Eternity you accept with its privacy policy.
 
 ## 1. What does it store?
