@@ -1,4 +1,4 @@
-## **Eternity's Privacy Policy**
+## **Rapid's Privacy Policy**
 ### By using Eternity you accept with its privacy policy.
 
 ## 1. What does it store?
@@ -29,8 +29,9 @@
 
 #### You can reach us by the following things:
 - Join our [Support Server](https://dsc.gg/infinityhq) on discord
-- Contact me on discord [discord.gg/eternity](https://dsc.gg/infinityhq)
+- Contact [~ Arypton_xD](https://dsc.gg/infinityhq) on discord [discord.gg/eternity](https://dsc.gg/infinityhq)
 
 ## 6. How can we delete our entire data?
 
-### Simply join our support server and ask any of the bot moderator to delete your entire data, They will delete your entrie data without asking any question.
+### Simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question.
+~ Thanks for the support
