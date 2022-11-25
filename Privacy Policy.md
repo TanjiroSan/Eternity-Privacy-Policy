@@ -34,4 +34,4 @@
 ## 6. How can we delete our entire data?
 
 ### Simply join our support server and ask any of the bot developer to delete your entire data, we will delete your entrie data without asking any question.
-~ Thanks for the support
+###~ Thanks for the support💞
