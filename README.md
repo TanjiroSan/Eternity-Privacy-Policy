@@ -1,1 +1,1 @@
-# Eternity-Privacy-Policy
+# Rapid-Privacy-Policy
